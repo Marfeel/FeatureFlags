@@ -1,0 +1,13 @@
+# HELP feature_flags tenant feature
+# TYPE feature_flags gauge
+feature_flags{uri="mejorconsalud.com",feature="feature1",} 1.0
+feature_flags{uri="periodistadigital.com",feature="feature2",} 1.0
+feature_flags{uri="esdiario.com",feature="feature3",} 1.0
+feature_flags{uri="ewn.co.za",feature="feature1",} 1.0
+feature_flags{uri="vanguardia.com.mx",feature="feature2",} 1.0
+feature_flags{uri="inforesist.org",feature="feature3",} 1.0
+feature_flags{uri="cubanet.org",feature="feature1",} 1.0
+feature_flags{uri="andro4all.com",feature="feature2",} 1.0
+feature_flags{uri="esmaelmorais.com.br",feature="feature3",} 1.0
+feature_flags{uri="denofgeek.com",feature="feature1",} 1.0
+feature_flags{uri="ibahia.com",feature="feature2",} 1.0
