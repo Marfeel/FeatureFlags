@@ -1,0 +1,4 @@
+# HELP compass_audits_failed_threshold siteId error_name
+# TYPE compass_audits_failed_threshold gauge
+compass_audits_failed_threshold{siteId="108",error_name="503",} 10.0
+compass_audits_failed_threshold{siteId="108",error_name="MANDATORY_TAG_ANCESTOR_WITH_HINT",} 50.0
